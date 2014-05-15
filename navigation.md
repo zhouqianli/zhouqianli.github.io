@@ -7,10 +7,8 @@
   * [Hiring](interview/hiring-criteria.md)
 
 
-<!-- set a default theme -->
-[gimmick:theme (readable)](bootstrap)
+[gimmick:theme (inverse: false)](spacelab)
 
-<!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
 
 <!-- show comments footer -->
