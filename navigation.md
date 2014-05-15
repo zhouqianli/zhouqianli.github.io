@@ -6,10 +6,7 @@
 
   * [Hiring](interview/hiring-criteria.md)
 
-
-[gimmick:theme (inverse: false)](spacelab)
-
-[gimmick:ThemeChooser](Change theme)
+[gimmick:theme](readable)
 
 <!-- show comments footer -->
 [gimmick:Disqus](markdowniowiki)
