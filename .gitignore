@@ -1,0 +1,7 @@
+# IDE specific
+.scala_dependencies
+.idea
+*.iml
+*.ipr
+*.iws
+*.eml
