@@ -10,9 +10,10 @@
   * [运动](history/exercise.md)
   * [家](history/home.md)
 
-[面试官与应聘者]()
+[Interview]()
   
-  * [JD应该包含什么](interview/hiring-criteria.md)
+  * [Hiring Criteria](interview/hiring-criteria.md)
+  * [Focus](interview/focus.md)
 
 [老子把你逮住了]()
   
