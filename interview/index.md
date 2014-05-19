@@ -13,7 +13,7 @@
  
 ## Interview Stimulation
  * [Interview Street](https://www.interviewstreet.com/recruit2/)
- * [Cpd1d1ty](https://codility.com/)
+ * [Cod1d1ty](https://codility.com/)
  * [Job Hunting](http://www.mitbbs.com/bbsdoc/JobHunting.html)
  
 ## Learning
