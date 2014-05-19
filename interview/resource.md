@@ -1,7 +1,7 @@
 # Interview Resource Recommendation
 
 ## Books
- * [Cracking The Coding Interview 5th](https://onedrive.live.com/?cid=3C4413903D1F1C91&id=3C4413903D1F1C91%21156)
+ * [Cracking The Coding Interview 5th](https://onedrive.live.com/view.aspx?cid=3C4413903D1F1C91&resid=3C4413903D1F1C91%215938&app=WordPdf&wdo=1)
  
 ## Sites
  * [LeetCode](http://leetcode.com/)
