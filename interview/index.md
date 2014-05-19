@@ -16,3 +16,7 @@
  * [Cpd1d1ty](https://codility.com/)
  * [Job Hunting](http://www.mitbbs.com/bbsdoc/JobHunting.html)
  
+## Learning
+ * [Hiring Criteria](interview/hiring-criteria.md)
+ * [Predicting Success](interview/focus.md)
+ 

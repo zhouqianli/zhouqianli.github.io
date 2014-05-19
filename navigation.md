@@ -13,9 +13,10 @@
 [Interview]()
   
   * [Hiring Criteria](interview/hiring-criteria.md)
-  * [Focus](interview/focus.md)
+  * [Predicting Success](interview/focus.md)
+  * [Resource](interview/index.md)
 
-[老子把你逮住了]()
+[技术总结]()
   
   * [Multi Maven project template](interview/hiring-criteria.md)
 
