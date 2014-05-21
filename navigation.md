@@ -15,6 +15,8 @@
   * [Hiring Criteria](interview/hiring-criteria.md)
   * [Predicting Success](interview/focus.md)
   * [Resource](interview/index.md)
+  * [Resume](interview/resume-eng.md)
+  * [简历](interview/resume-chs.md)
 
 [技术总结]()
   
