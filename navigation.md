@@ -20,7 +20,7 @@
 
 [技术总结]()
   
-  * [Multi-module Maven Project Template]()
+  * [Multi-module Maven Project Template](https://github.com/zhouqianli/java-maven-template)
   * [Multi-module Gradle Project Template](https://github.com/zhouqianli/scala-gradle-template)
   * [OO Wrapper Base on Selenium for Web UI Testing](https://github.com/zhouqianli/cat)
   * [Java Design Pattern Examples](https://github.com/zhouqianli/DesignPatterns)
