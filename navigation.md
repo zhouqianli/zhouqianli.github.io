@@ -25,7 +25,9 @@
   * [OO Wrapper Base on Selenium for Web UI Testing](https://github.com/zhouqianli/cat)
   * [Java Design Pattern Examples](https://github.com/zhouqianli/DesignPatterns)
 
-[gimmick:theme](readable)
+[gimmick:theme](spacelab)
+
+[gimmick:themechooser](Themes)
 
 <!-- show comments footer -->
 [gimmick:Disqus](markdowniowiki)
