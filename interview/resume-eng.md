@@ -7,6 +7,13 @@
    * 1 year  - Software Development Engineer @ JinYa Electronics
    * Master Degree, Computer Application Technology, Guilin University of Technology, 2008
    * Bachelor Degree, Computer Science, Tianjin University, 2004
+   
+## Hard Skills
+   * Language: Java, C#, Scala
+   * Tech: OOD, OOA
+   * Big Data: Hadoop, HBase, ZooKeeper, Hive, HCatalog
+   * Testing:
+   * Util: Git, Subversion, Maven, Gradle 
 
 ## About Me
 Internationally experienced Engineering Software designing and testing with
@@ -17,8 +24,7 @@ Contributor to all aspects of the software design and delivery phase, including 
 definition, documentation, coding, testing and delivery of software engineering projects.
 
 ## Achievements
-   * @ Yahoo!
-     - 
+   * 
 
 ## Contact
    * Phone: 158 1091 3508
