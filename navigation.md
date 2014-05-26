@@ -30,4 +30,4 @@
 [gimmick:themechooser](Themes)
 
 <!-- show comments footer -->
-[gimmick:Disqus](markdowniowiki)
+[gimmick:Disqus](zhouqianli)
