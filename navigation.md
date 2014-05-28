@@ -2,7 +2,7 @@
 
 [我这些年]()
   
-  * [雅虎往事](history/yahoo.md)
+  * [懒猫往事](history/lazycat.md)
   * [外包风云](history/vendor.md)
   * [搞不清的公司名称](history/myspace.md)
   * [向前走，不回头](history/biketrip.md)
