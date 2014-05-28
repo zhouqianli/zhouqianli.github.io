@@ -1,5 +1,5 @@
 # 雅虎往事
-Note:All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.
+Note: All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.
 
 ## 华丽
 进雅虎以前我从来没有接触过Linux，人对于自己的无知有两种态度：洋洋自得和过度恐惧。我属于后一种。而华丽就是我的老师。

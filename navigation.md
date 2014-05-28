@@ -28,6 +28,3 @@
 [gimmick:theme](spacelab)
 
 [gimmick:themechooser](Themes)
-
-<!-- show comments footer -->
-[gimmick:Disqus](zhouqianli)
