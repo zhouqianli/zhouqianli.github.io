@@ -30,5 +30,3 @@
   * [淘宝](learning/taobao.md)
 
 [gimmick:theme](spacelab)
-
-[gimmick:themechooser](Themes)
