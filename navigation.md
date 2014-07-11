@@ -15,8 +15,6 @@
   * [Hiring Criteria](interview/hiring-criteria.md)
   * [Predicting Success](interview/focus.md)
   * [Resource](interview/index.md)
-  * [Resume](interview/resume-eng.md)
-  * [简历](interview/resume-chs.md)
 
 [技术总结]()
   
@@ -29,5 +27,11 @@
 
   * [淘宝](learning/taobao.md)
   * [问题模板](learning/questions.md)
+
+[Resume]()
+
+  * [Why should you hire me?]()
+  * [简历](interview/resume-chs.md)
+  * [Resume](interview/resume-eng.md)
 
 [gimmick:theme](spacelab)
