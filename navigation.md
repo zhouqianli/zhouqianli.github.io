@@ -30,7 +30,7 @@
 
 [Resume]()
 
-  * [Why should you hire me?]()
+  * [Why should you hire me?](interview/whyhire/out/index.html)
   * [简历](interview/resume-chs.md)
   * [Resume](interview/resume-eng.md)
 
