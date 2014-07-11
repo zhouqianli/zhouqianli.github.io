@@ -8,7 +8,7 @@
 Why You Should Hire Me
 =======================
 
-.. image:: ../../images/bravo.png
+.. image:: bravo.png
 
 ----
 
