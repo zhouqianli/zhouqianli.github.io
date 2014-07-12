@@ -6,7 +6,7 @@
 ----
 
 Why You Should Hire Me
-=======================
+======================
 
 .. image:: bravo.png
 
@@ -59,11 +59,11 @@ Fast Learner
 
 :data-rotate-y: 180
 
-The End
-=======
+Thanks for your time
+====================
 
-- 我的简历_
-- Resume_
+我的简历_, Resume_
+..............
 
 .. _我的简历: http://zhouqianli.github.io/#!interview/resume-chs.md
 .. _Resume: http://zhouqianli.github.io/#!interview/resume-eng.md

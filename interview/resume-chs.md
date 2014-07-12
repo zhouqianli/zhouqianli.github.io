@@ -20,6 +20,8 @@
 
 在实际工作中领导并参与了从软件设计到交付的全部流程。包括项目定义、需求文档、编码、测试。
 
+Note: 请访问[why you should hire me](whyhire/out/index.html)
+
 ## 成就
    * @Yahoo!, 由于对软件敏捷开发流程以及网络测试框架开发方面的卓越工作，仅用1.5年时间就从IC3升职至IC4。
    * @Yahoo!(Ads Targeting), 在雅虎获得Super Star荣誉和4个Backyard Bravos[![bravo](../images/bravo.png)](../images/backyard.png).
