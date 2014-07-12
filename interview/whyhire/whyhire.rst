@@ -12,9 +12,6 @@ Why You Should Hire Me
 
 ----
 
-:data-x: -1500
-:data-rotate-y: 180
-
 Deep Knowledge on Agile Development and Design
 ==============================================
 
@@ -25,8 +22,6 @@ Deep Knowledge on Agile Development and Design
 
 ----
 
-:data-x: r-1000
-:data-y: r-200
 
 Professional Developer with Strong Leading and Management Skill
 ===============================================================
@@ -38,8 +33,6 @@ Professional Developer with Strong Leading and Management Skill
 
 ----
 
-:data-x: r-1000
-:data-y: r200
 
 Continuous Innovation
 =====================
@@ -53,9 +46,6 @@ In Yahoo!, for example
 
 ----
 
-:data-x: r1000
-:data-y: r600
-
 
 Fast Learner
 ============
@@ -64,3 +54,16 @@ Fast Learner
 - Catch up Java/Linux in 2 weeks without background before.
 - Lean Scala in spare time and use it in real project in 1 month.
 - Persistent.
+
+----
+
+:data-rotate-y: 180
+
+The End
+=======
+
+- 我的简历_
+- Resume_
+
+.. _我的简历: http://zhouqianli.github.io/#!interview/resume-chs.md
+.. _Resume: http://zhouqianli.github.io/#!interview/resume-eng.md

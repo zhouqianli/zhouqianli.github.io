@@ -1,6 +1,6 @@
 #Zhong Zhou
 ## Software Designer, Developer, Quality Engineer with Master Degree
-   * 3 years - Tech Yahoo, Software Quality Eng, Sr @ Yahoo!: Ads Targeting & Personalization User Profile Platform
+   * 3 years - [Tech Yahoo, Software Quality Eng, Sr](../images/backyard.png) @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * 2 years - Senior Software Development Engineer in Test & QA Lead @ Microsoft: SQL Server, Master Data Services [Vendor] 
    * 1 year  - Software Development Engineer @ Microsoft: Office Communication Service [Vendor]
    * 1 year  - Software Development Engineer @ Myspace
@@ -25,12 +25,13 @@ definition, documentation, coding, testing and delivery of software engineering 
 
 ## Achievements
    * @Yahoo!, only toke 1.5 year got **promotion** from IC3 to IC4 due to great achievement on quality agile process and web UI test framework development.
-   * @Yahoo!, Super Star team member with 4 Backyard Bravos [![bravo](../images/bravo.png)](../images/backyard.png).
-   * @Yahoo!, as [main developer](../images/tapi.png) lead 4 dev member create new high quality project named Targeting API from **scratch**
-      - Fast iteration development with safe code refactoring.  Reduce development environment setup time from 1 week to 2 hours.
-      - Optimized development process.  New feature can push to production immediately after code commit.
-      - Lead team got 90% line coverage and 82% condition coverage by functional+GQL testing.
-   * 
+   * @Yahoo!(Ads Targeting), Super Star team member with 4 Backyard Bravos [![bravo](../images/bravo.png)](../images/backyard.png).
+   * @Yahoo!(Ads Targeting), as [main developer](../images/tapi.png) lead 4 dev member developed high quality project from **scratch**
+      - Fast iteration development with safe code **refactoring** benefit by good architecture design.  
+      - Reduce new developer ramp up period from **1 week** to **2 hours**.
+      - Optimized continuous delivery process.  Only take **1** hour for New feature push to production after code commit.
+      - Lead team got **90%** line coverage and **82%** condition coverage by functional+GQL testing for over **100,000** lines of codes' project in **1.5** month.
+   * @Yahoo!, 
    
 ## Contact
    * Phone: 158 1091 3508
