@@ -39,15 +39,14 @@ Note: please visit [why you should hire me](whyhire/out/index.html)
    
 ## Projects
    * Yahoo
-     - `Designer` `Dev` `Tester`Yet Another Pipeline Builder(HCatalog, Hive)
-     - `Designer` `Dev` `Tester`Active Reach Report(Hadoop)
-     - `Designer` `Dev` `Tester`Targeting API` `TWS(Web Service)
+     - `Designer` `Dev` Yet Another Pipeline Builder(HCatalog, Hive)
+     - `Dev`Active Reach Report(Hadoop)
+     - `Designer` `Dev` `Tester`Targeting API(Web Service)
      - `Tester`Centralized Targeting Workbench(Java, Selenium)
-     - `Tester`Categorization Tool(Java, Selenium)
-     - `Tester`CatTool ETL(Perl, Java)
+     - `Tester`Categorization Tool/ETL(Perl, Java, Selenium)
      - `Tester`Targeting DB consolidation(Oracle)
    * Microsoft
-     - `Team Leader` `Tester`Master Data Services(C#, SQL Server, PowerShell)
+     - `Team Leader`Master Data Services(C#, SQL Server, PowerShell)
      - `Dev`Office Communication Service, Milan Wave 14(C#, WF)
      - `Tester`Client Center(WCF)
    * MySpace
