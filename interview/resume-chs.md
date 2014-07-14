@@ -9,11 +9,10 @@
    * 工学学士, 计算机科学与技术, 天津大学, 2004
    
 ## 技能
-   * 开发语言: Java, Scala, C#
-   * 技术: OOD, OOA
-   * Web Service: Servlet, Tomcat, Jersey, WCF, WF, AppFabric, PowerShell
-   * Big Data: Oracle, Hadoop, HBase, Hive, HCatalog
-   * Util: Git, Subversion, Maven, Gradle 
+   * 掌握: Java, OOD, OOA, Design Patterns
+   * 熟悉: Scala, C#, Servlet, Tomcat, Jersey, WCF, Oracle, Hadoop, Selenium
+   * 知道: HBase, Hive, HCatalog, WF, AppFabric, PowerShell 
+   * 曾使用过: Git, Subversion, Maven, Gradle, Perl, ASP.NET, Visual Basic
 
 ## 关于我
 具备丰富外企工作经验的软件架构设计师、程序员和测试工程师。8年专业软件开发经验。洞悉敏捷开发方法和流程，并能在实施阶段持续创新。

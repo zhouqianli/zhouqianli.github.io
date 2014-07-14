@@ -9,11 +9,10 @@
    * Bachelor Degree, Computer Science, Tianjin University, 2004
    
 ## Hard Skills
-   * Language: Java, Scala, C#
-   * Tech: OOD, OOA
-   * Service: Servlet, Tomcat, Jersey, WCF, WF, AppFabric, PowerShell 
-   * Data: Oracle, Hadoop, HBase, Hive, HCatalog
-   * Util: Git, Subversion, Maven, Gradle, Selenium
+   * Mastering: Java, OOD, OOA, Design Patterns
+   * Familiar: Scala, C#, Servlet, Tomcat, Jersey, WCF, Oracle, Hadoop, Selenium
+   * Known: HBase, Hive, HCatalog, WF, AppFabric, PowerShell 
+   * Experienced: Git, Subversion, Maven, Gradle, Perl, ASP.NET, Visual Basic
 
 ## About Me
 Internationally experienced Engineering Software designing and testing with
