@@ -23,7 +23,7 @@ Internationally experienced Engineering Software designing and testing with
 Contributor to all aspects of the software design and delivery phase, including project
 definition, documentation, coding, testing and delivery of software engineering projects.
 
-Note: please visit [why you should hire me](whyhire/out/index.html)
+Note: more details please visit  [why you should hire me](whyhire/out/index.html)
 
 ## Achievements
    * @Yahoo!, only toke 1.5 year got **promotion** from IC3 to IC4 due to great achievement on quality agile process and web UI test framework development.
