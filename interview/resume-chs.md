@@ -36,20 +36,20 @@ Note: 请访问[why you should hire me](whyhire/out/index.html)
 
 ## 项目经历
    * Yahoo
-     - `Designer` `Dev` Yet Another Pipeline Builder(HCatalog, Hive)
-     - `Dev`Active Reach Report(Hadoop)
-     - `Designer` `Dev` `Tester`Targeting API(Web Service)
-     - `Tester`Centralized Targeting Workbench(Java, Selenium)
-     - `Tester`Categorization Tool/ETL(Perl, Java, Selenium)
-     - `Tester`Targeting DB consolidation(Oracle)
+     - `设计` `开发` Yet Another Pipeline Builder(HCatalog, Hive)
+     - `开发`Active Reach Report(Hadoop)
+     - `设计` `开发` `测试`Targeting API(Web Service)
+     - `测试`Centralized Targeting Workbench(Java, Selenium)
+     - `测试`Categorization Tool/ETL(Perl, Java, Selenium)
+     - `测试`Targeting DB consolidation(Oracle)
    * Microsoft
      - `Team Leader`Master Data Services(C#, SQL Server, PowerShell)
-     - `Dev`Office Communication Service, Milan Wave 14(C#, WF)
-     - `Tester`Client Center(WCF)
+     - `开发`Office Communication Service, Milan Wave 14(C#, WF)
+     - `测试`Client Center(WCF)
    * MySpace
-     - `Dev`Web Union (ASP.NET)
-     - `Dev`Sign Up (Web Service)
-     - `Dev`User Profile (ASP.NET)
+     - `开发`Web Union (ASP.NET)
+     - `开发`Sign Up (Web Service)
+     - `开发`User Profile (ASP.NET)
      
 ## 联系信息
    * 手机: 158 1091 3508

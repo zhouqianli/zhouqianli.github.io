@@ -28,10 +28,10 @@
   * [淘宝](learning/taobao.md)
   * [问题模板](learning/questions.md)
 
-[Resume]()
+[Why you should hire me](interview/whyhire/out/index.html)
 
-  * [Why you should hire me](interview/whyhire/out/index.html)
-  * [简历](interview/resume-chs.md)
-  * [Resume](interview/resume-eng.md)
+[简历](interview/resume-chs.md)
+
+[Resume](interview/resume-eng.md)
 
 [gimmick:theme](spacelab)
